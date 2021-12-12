@@ -1,0 +1,10 @@
+.search {
+    margin-right:0px ;
+    padding-right: 0px;
+    
+}
+
+  .react-grid-multiline-content .react-grid-Cell__value {
+    white-space: normal !important;
+  }
+

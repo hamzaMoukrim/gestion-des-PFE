@@ -1,0 +1,31 @@
+.react-datepicker-wrapper,
+.react-datepicker__input-container,
+.react-datepicker__input-container input {
+    display: block;
+    width: 100%;
+}
+.tool{
+    width: 160%;
+    /* height: 110%; */
+    height:360px
+}
+.toolImport{
+    
+    /* height: 110%; */
+    height:-10px
+}
+
+/* .btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    background: red;
+    cursor: inherit;
+    display: block;
+  } */

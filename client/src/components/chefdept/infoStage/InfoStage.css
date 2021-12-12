@@ -1,0 +1,38 @@
+.stageInfo .header{
+    margin-bottom: 1em;
+    font-size: 35px;
+    font-weight: 300;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #2574A9 !important;
+}
+
+
+  
+  fieldset legend {
+    background-color: gray;
+    color: white;
+    padding: 5px 10px;
+  }
+
+  fieldset {
+    border:2px solid #CCC;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;	
+    border-radius:8px;	
+    background-color: #eeeeee;
+    margin-bottom: 1em;
+}
+
+
+.modal-full-height .modal-content {
+  position: absolute;
+  min-height: 100%;
+  max-height: 100%;
+  width: 100%;
+  margin: 0;
+  top: 0;
+  right: 0;
+}
+

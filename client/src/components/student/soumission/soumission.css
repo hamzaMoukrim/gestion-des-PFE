@@ -1,0 +1,14 @@
+.soumission-table{
+    background-color: white;
+    padding:1em;
+}
+.soumission-table .header{
+    margin-bottom: 1em;
+    font-size: 35px;
+    font-weight: 300;
+}
+
+.newSubmission{
+    float: right;
+    margin-bottom: 2em;
+}

@@ -1,0 +1,49 @@
+.btns {
+    position: relative;
+    width : 280px;
+    margin-left:95px ;
+}
+button{
+    margin-left: 25px;
+}
+.planningForm{
+    margin-top : 15px;
+    margin-left: 30px;
+}
+.label{
+    display: inline-block;
+    width : 70px;
+    
+}
+.picker{
+    width : 280px;
+    height : 40px;
+    margin-left: 25px;
+}
+.select {
+    margin-left: 25px;
+    width : 280px;
+}
+.picckerTime{
+    width : 75px;
+    margin-left: 0px;
+    height: 40px;
+}
+.from {
+    margin-left: 25px;
+    width:40px ;
+}
+.to {
+    width:40px ;
+    margin-left: 16px;
+}
+.header{
+    margin-top: 40px;
+    margin-bottom: 0px;
+    width: 400px;
+    padding-left: 0px;
+    margin-left: 5px;
+    margin-bottom: 1em;
+    font-size: 35px;
+    font-weight: 300;
+}
